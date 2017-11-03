@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gradle@^1.0.8",
+        "scope": null,
+        "escapedName": "gradle",
+        "name": "gradle",
+        "rawSpec": "^1.0.8",
+        "spec": ">=1.0.8 <2.0.0",
+        "type": "range"
+      },
+      "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry"
+    ]
+  ],
+  "_from": "gradle@>=1.0.8 <2.0.0",
+  "_id": "gradle@1.0.8",
+  "_inCache": true,
+  "_location": "/gradle",
+  "_nodeVersion": "7.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gradle-1.0.8.tgz_1508764136548_0.526109030470252"
+  },
+  "_npmUser": {
+    "name": "xudafeng",
+    "email": "xudafeng@126.com"
+  },
+  "_npmVersion": "5.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gradle@^1.0.8",
+    "scope": null,
+    "escapedName": "gradle",
+    "name": "gradle",
+    "rawSpec": "^1.0.8",
+    "spec": ">=1.0.8 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gradle/-/gradle-1.0.8.tgz",
+  "_shasum": "3af6374f335d054a6b58352c9151c85aa394313f",
+  "_shrinkwrap": null,
+  "_spec": "gradle@^1.0.8",
+  "_where": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry",
+  "bugs": {
+    "url": "https://github.com/macacajs/gradle/issues"
+  },
+  "dependencies": {
+    "win-spawn": "^2.0.0",
+    "xutil": "^1.0.3"
+  },
+  "description": "gradle",
+  "devDependencies": {
+    "co-mocha": "*",
+    "istanbul": "*",
+    "jshint": "*",
+    "mocha": "*",
+    "pre-commit": "*",
+    "should": "*"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-2BIXjFCZeCWVczNBSAiHmOZ3ZJPwW0dSYup2ozwS2PIlFr15u3lx86hTKYAtRjYae8WR9OPm28a376Z0/72ezw==",
+    "shasum": "3af6374f335d054a6b58352c9151c85aa394313f",
+    "tarball": "https://registry.npmjs.org/gradle/-/gradle-1.0.8.tgz"
+  },
+  "gitHead": "53bdb8ee18a04bfaae8f14ba6dde8828bf109bfa",
+  "homepage": "https://github.com/macacajs/gradle#readme",
+  "keywords": [
+    "Node.js wrapper for gradle"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "xudafeng",
+      "email": "xudafeng@126.com"
+    }
+  ],
+  "name": "gradle",
+  "optionalDependencies": {},
+  "pre-commit": [
+    "jshint"
+  ],
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macacajs/gradle.git"
+  },
+  "scripts": {
+    "jshint": "make jshint",
+    "test": "make test"
+  },
+  "version": "1.0.8"
+}

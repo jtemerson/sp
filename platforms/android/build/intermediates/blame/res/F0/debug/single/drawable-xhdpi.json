@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\Users\\passm\\Desktop\\smart_pantry\\smart_pantry\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
+    }
+]

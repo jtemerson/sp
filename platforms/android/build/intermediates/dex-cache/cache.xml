@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_81015f190ac61cc49ff80d77bef783869f31e14a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_f3cc9bd5166dac427403e0664b7a473b09563b77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_802200c99f458f67b1368dec4e81af18b3498e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_9187dbf3c006e7b412741758bf8ab1135d3f38af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_cb92a7c4d024802dc37ba0fa9fbd6ba26fd9b2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_1799fa493c8b2565403c9bda73a4fd90fb3d41a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_5726bd5d79fb7674d860d9add98c31c4b0a50d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_caf23f27b7aac5766cd0e8ab1f1fe8410057bcc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_b39bc6e57d3e7353dc60f03119e941ef519e61a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_fcbb918eae1e4caa0b466d24d636d9fa6f5c22c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_82151b66db26eaba588cca51b190711a62fc0321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_ea4b5af0c2b384574bd6209f906602bab4eea032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_3fec691fa6bdbb7b3a7ba472762a01b9ca209e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\passm\Desktop\smart_pantry\smart_pantry\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_5815fd3cade40ef3d6a954d7183358c374638349.jar" />
+    </item>
+
+</items>
