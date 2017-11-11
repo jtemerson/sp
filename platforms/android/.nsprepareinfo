@@ -1,9 +1,9 @@
 {
-	"time": "Fri Nov 03 2017 10:48:12 GMT-0600 (Mountain Daylight Time)",
+	"time": "Tue Nov 07 2017 21:22:00 GMT-0700 (Mountain Standard Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
-	"projectFileHash": "a8cea96f086b08ae9426017a7f0fc1577f560ba5d81d25d15ef3e746d69e71c1",
-	"changesRequireBuildTime": "Fri Nov 03 2017 10:00:13 GMT-0600 (Mountain Daylight Time)"
+	"projectFileHash": "5b3fc784e4f43277f48366e7c929dd84e48365a8c12a024e945ccb4c954ed94c",
+	"changesRequireBuildTime": "Tue Nov 07 2017 21:10:11 GMT-0700 (Mountain Standard Time)"
 }
