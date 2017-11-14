@@ -1,5 +1,6 @@
 import { Component, OnInit, NgModule } from "@angular/core";
-import { AuthService } from "../auth.service";
+import { AuthService } from "./auth.service";
+import { User } from "./user.model"
 
 @Component({
     selector: "auth",
@@ -7,7 +8,7 @@ import { AuthService } from "../auth.service";
     templateUrl: "./auth.component.html"
 })
 export class AuthComponent implements OnInit {
-    email;
+    username;
     password;
     isLoggingIn = true;
 
@@ -26,11 +27,16 @@ export class AuthComponent implements OnInit {
     }
 
     login() {
-        console.log(this.email + this.password);
+        console.log(this.username + this.password);
     }
 
     register() {
-        this.authService.registerUser(this.email, this.password)
+      const user = new User(this.username, this.password);
+      this.authService.register(user)
+        .subscribe(
+          data => console.log(data),
+          error => console.log(error)
+        );
     }
 
     toggleDisplay() {

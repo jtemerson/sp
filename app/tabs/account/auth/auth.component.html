@@ -1,5 +1,5 @@
 <StackLayout>
-  <TextField hint="Email" [(ngModel)]="email"></TextField>
+  <TextField hint="Username" [(ngModel)]="username"></TextField>
   <TextField hint="Password" [(ngModel)]="password"></TextField>
   <Button [text]="isLoggingIn ? 'Login' : 'Register'" (tap)="submit()"></Button>
   <Button [text]="isLoggingIn ? 'Register' : 'Back to Login'" (tap)="toggleDisplay()"></Button>

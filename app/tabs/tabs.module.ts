@@ -8,7 +8,7 @@ import { PantryComponent } from "./pantry/pantry.component";
 import { TabsRoutingModule } from "./tabs-routing.module";
 import { TabsComponent } from "./tabs.component";
 import { AuthComponent } from "./account/auth/auth.component";
-import { AuthService } from "./account/auth.service";
+import { AuthService } from "./account/auth/auth.service";
 
 @NgModule({
     imports: [
